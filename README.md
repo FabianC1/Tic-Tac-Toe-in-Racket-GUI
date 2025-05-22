@@ -26,9 +26,6 @@ This project is a graphical implementation of the classic Tic-Tac-Toe game using
    racket "racket tic-tac-toe.rkt"
    ```
 
-## License
 
-All rights reserved.  
-This project and its source code are the exclusive property of Fabian Galasel.  
-No part of this project may be copied, modified, reused, or distributed without explicit permission.
-
+## Final Notes
+This project serves as a practical introduction to building GUIs in Racket and implementing basic game logic.
